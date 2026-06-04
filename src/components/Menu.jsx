@@ -5,6 +5,7 @@ import cappuccinoImg from '../assets/cappuccino.png';
 import latteImg from '../assets/latte.png';
 import flatWhiteImg from '../assets/flat-white.png';
 import coldBrewImg from '../assets/cold-brew.png';
+import affogateImg from '../assets/affogate.png';
 
 const menuItems = [
   {
@@ -52,7 +53,7 @@ const menuItems = [
     name: 'Affogato al Caffè',
     description: 'A generous scoop of premium Madagascar vanilla bean gelato drowned in a hot shot of our signature espresso.',
     price: '₹340',
-    image: 'https://images.unsplash.com/photo-1594761053050-444f64729e17?auto=format&fit=crop&w=600&q=80',
+    image: affogateImg,
     tag: 'Dessert'
   }
 ];
